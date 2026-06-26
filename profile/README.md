@@ -1,5 +1,3 @@
-LOGO
-
 Laser & Advanced Photonics Research Group
 Hunan University
 
