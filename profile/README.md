@@ -1,12 +1,35 @@
-## Hi there 👋
+LOGO
 
-<!--
+Laser & Advanced Photonics Research Group
+Hunan University
 
-**Here are some ideas to get you started:**
+----------------------------------
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Research Areas
+
+🔹 THz Spectroscopy
+🔹 THz Imaging
+🔹 Nonlinear Optics
+🔹 Laser Plasma Interaction
+🔹 Plasma Optics
+🔹 Confined Water
+🔹 AI for Fusion
+🔹 Scientific Machine Learning
+
+----------------------------------
+
+Repositories
+
+WarpX
+PIC
+THz
+AI
+HPC
+Data Analysis
+Lab Automation
+
+----------------------------------
+
+Latest Publications
+Latest News
+Open Positions
